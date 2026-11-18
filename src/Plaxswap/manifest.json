@@ -1,0 +1,17 @@
+{
+  "manifest_version": 1,
+  "type": "payment-gateway",
+  "id": "plaxswap",
+  "name": "Plaxswap - Bitcoin & Crypto Payments Gateway",
+  "version": "0.1.0",
+  "description": "Clients pay FOSSBilling invoices with Bitcoin, USDT, USDC, ETH, SOL, LTC and other coins on Plaxswap's hosted checkout. The invoice is marked paid after a signed webhook and a check against the Plaxswap API.",
+  "author": {
+    "name": "Plaxswap",
+    "url": "https://plaxswap.com"
+  },
+  "license": "Apache-2.0",
+  "homepage_url": "https://plaxswap.com/developers/payments",
+  "requires": {
+    "fossbilling": ">=0.8.9 <1.0"
+  }
+}
