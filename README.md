@@ -1,5 +1,7 @@
 # Plaxswap - Bitcoin & Crypto Payments Gateway for FOSSBilling
 
+Payments API guide on the Plaxswap site: https://plaxswap.com/developers/payments
+
 Version 0.1.0 | FOSSBilling 0.8.9 or newer (0.8.x) | Apache-2.0
 
 Your clients pay FOSSBilling invoices with Bitcoin, USDT, USDC, ETH, SOL, LTC and other coins on Plaxswap's hosted checkout. Confirmed payments go to your Plaxswap merchant balance. The invoice is marked paid once Plaxswap confirms the payment and this module has checked it against the Plaxswap API.
